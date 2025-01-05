@@ -19,4 +19,4 @@ Virtual hub on Velocity proxy, built with LimboAPI.
 ---
 
 - ***limbohub.command.hub* (See `hub-command.require-permission`) | See `hub-command.aliases`** - Sends player to the hub.
-- ***limbohub.command.reload* | /limbohubreload** - Plugin reload command.
+- ***limbohub.command.reload* | /limbohubreload** - Plugin reload command
