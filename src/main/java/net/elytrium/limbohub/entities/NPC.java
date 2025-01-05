@@ -109,7 +109,7 @@ public class NPC {
     } else {
       player.writePacketAndFlush(
           new LegacyPlayerListItemPacket(
-                  LegacyPlayerListItemPacket.ADD_PLAYER,
+              LegacyPlayerListItemPacket.ADD_PLAYER,
               List.of(
                   new LegacyPlayerListItemPacket.Item(this.uuid)
                       .setName(profile.getName())
